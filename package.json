@@ -1,0 +1,22 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "my first rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ins-nishidh-47/Rest-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ins-nishidh-47/Rest-API/issues"
+  },
+  "homepage": "https://github.com/ins-nishidh-47/Rest-API#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}
